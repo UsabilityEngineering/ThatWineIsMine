@@ -4,7 +4,7 @@ Replace this text with a brief introduction to the problem space.
 
 ## Team Members
 
-* **Carlson Smith* - Summary of contributions
+* **Carlson Smith** - Summary of contributions
 * **Nathan Tisdale** - Summary of contributions
 * **Teng Xiong** - Summary of contributions
 
