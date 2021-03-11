@@ -58,8 +58,8 @@ One thing to consider is that our audience for the survey was simply who ever fe
 [See dedicated page for Personas and Scenarios created from Phase 1 findings](../personas-scenarios.md)
 
 
-Google [Survey](https://forms.gle/pSwmTKsNu4PfYUTp6) and Websites to gather information.
-Example Map: [Livermore Valley Wineries](https://forms.gle/pSwmTKsNu4PfYUTp6)
-Example Regional visitation guide for [Sonoma County](https://forms.gle/pSwmTKsNu4PfYUTp6)
-Potential partner for wine [tour shuttle](https://forms.gle/pSwmTKsNu4PfYUTp6)
+* Google [Survey](https://forms.gle/pSwmTKsNu4PfYUTp6) and Websites to gather information.
+* Example Map: [Livermore Valley Wineries](https://forms.gle/pSwmTKsNu4PfYUTp6)
+* Example Regional visitation guide for [Sonoma County](https://forms.gle/pSwmTKsNu4PfYUTp6)
+* Potential partner for wine [tour shuttle](https://forms.gle/pSwmTKsNu4PfYUTp6)
 
