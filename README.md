@@ -25,13 +25,13 @@ Replace this text with a brief introduction to the problem space.
 * Most respondents wanted red wine and snacks to go with it. (over 50%)
 * High interest in hiring a driver for the tour (72%)
 * Two major groups
-** 2 winery visits (33.3%)
-** Visit as many wineries as possible in a day. (50%)
+  * 2 winery visits (33.3%)
+  * Visit as many wineries as possible in a day. (50%)
 * Pets and golfing where not very interesting to the respondents
 * Design personas and scenarios representing the 3 personas
-** John - wine collector who wants to visit multiple wineries over a weekend
-** Lauren - a new wine drinker who wants to try out a winery visit
-** Sally - an avid wine drinker whos been to wineries and wants to plan a bday party
+  * John - wine collector who wants to visit multiple wineries over a weekend
+  * Lauren - a new wine drinker who wants to try out a winery visit
+  * Sally - an avid wine drinker whos been to wineries and wants to plan a bday party
 
 
 [Full phase 1 report](phase1/)
