@@ -17,8 +17,8 @@ Replace this text with a brief introduction to the problem space.
 # Phase 1: Requirements Gathering
 
 * Identify what users might want to see in an app to plan wine tasting trips
-** Gather data on certain wine types and wineries
-** Include a feedback section to get user ideas
+  * Gather data on certain wine types and wineries
+  * Include a feedback section to get user ideas
 * **Online Survey** of people who enjoy wine (n=18) in our class
 * **Study Documentation** look into maps and other sources of information about wine.
 * Majority of respondents **wanted to go wine tasting** (55%)
