@@ -8,7 +8,7 @@ We used google forms to distribute a survey to wine consumers who would be poten
 
 ### Documentation Research
 
-We examed avaiable maps, literature, and sites to determine what resources are currently being used by those visiting wine tasting rooms.  Users must navigate to mulitple sites to collect information they might need for any single trip.  Documentation may include a significant amount of advertising.
+We examed available maps, literature, and sites to determine what resources are currently being used by those visiting wine tasting rooms.  Users must navigate to mulitple sites to collect information they might need for any single trip.  Documentation may include a significant amount of advertising.
 
 ## Findings
 
