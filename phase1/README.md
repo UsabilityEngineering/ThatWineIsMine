@@ -26,25 +26,31 @@ We examed avaiable maps, literature, and sites to determine what resources are c
 * Integration with driver/tour services is expected to be successful, as 72% were interested or strongly interested in hiring a driver or taking a tour bus.
 * Half were willing to pay for an app that made planning easy.  Only17% were opposed.
 * Must have features listed by respondents:
-- Free samples
-- Which is the highest ranked wine tasting room
-- The most popular wine of the location we are currently in
-- Where’s the after party?
-- food pairings, map of all local wineries, flavor profiles, general section for wines
-- easy and quick way to get from one vineyard to another without waiting around too long and while also taking into account when each one is open and which ones will be the best to schedule around meal times (who offer substantial food or are within close access to food)
-- Needs to be easy to use
-- Include a feed where one can share their plans and meet others on their way.
-- Pricing update (adding elements of the trip to a cart to see what costs will be)
-- The ability to filter wineries based on which have specific types of wine (Which ones have a Cab/Merlot)
-- Food pairing ideas
+  * Free samples
+  * Which is the highest ranked wine tasting room
+  * The most popular wine of the location we are currently in
+  * Where’s the after party?
+  * food pairings, map of all local wineries, flavor profiles, general section for wines
+  * easy and quick way to get from one vineyard to another without waiting around too long and while also taking into account when each one is open and which ones will be the best to schedule around meal times (who offer substantial food or are within close access to food)
+  * Needs to be easy to use
+  * Include a feed where one can share their plans and meet others on their way.
+  * Pricing update (adding elements of the trip to a cart to see what costs will be)
+  * The ability to filter wineries based on which have specific types of wine (Which ones have a Cab/Merlot)
+  * Food pairing ideas
 
 
 ## Conclusions
 
+* Lack of interest in fortified wines might present a marketing opportunity, or could represent a general lack of interest.
+* A quick filter to identify food & wine pairings being offered would be valued
+* Connecting users with drivers and tour buses would be seen as a valuable service by most users rather than simply an attempt to make a sale
+* Use of free materials in planning trips suggests that a moderate amount of advertising may be tolerated.  A free option with ads could satisfy those who indicated they did not want to pay for an app.
+* Potential features based on feedback: plan sharing, social connections, pricing info, ranking of wines, popularity ratings, filter on free vs charge tasting, and food pairing ideas from winery
 
 
 ## Caveats
 
+One thing to consider is that our audience for the survey was simply who ever felt like giving us some feedback during the lab period in class.  To really get the data we want we would have to poll people who would be interested in wine and older than 21.
 
 
 ## Supplementary Materials
@@ -52,4 +58,8 @@ We examed avaiable maps, literature, and sites to determine what resources are c
 [See dedicated page for Personas and Scenarios created from Phase 1 findings](../personas-scenarios.md)
 
 
-Include link(s) or cop(ies) to your instrument(s) itself (questionnaire for a survey, protocol for an interview or contextual inquiry, etc) as PDF documents.
+Google [Survey](https://forms.gle/pSwmTKsNu4PfYUTp6) and Websites to gather information.
+Example Map: [Livermore Valley Wineries](https://forms.gle/pSwmTKsNu4PfYUTp6)
+Example Regional visitation guide for [Sonoma County](https://forms.gle/pSwmTKsNu4PfYUTp6)
+Potential partner for wine [tour shuttle](https://forms.gle/pSwmTKsNu4PfYUTp6)
+
