@@ -4,7 +4,7 @@
 
 ## John
 
-John is a collector who wants to visit as many tasting rooms as possible during his trip to wine country.  He is a member of several wine clubs and receives automatic shipments from leading wineries in every region he visits.
+John is a wine aficionado.  He worked through college in a local tasting room and enjoyed helping during harvest whenever his schedule permitted.  After college, with a full-time income streaming in, he began collecting wines. John and his partner converted a bedroom in their home into a wine cellar complete with humidity and temperature controls.  At least once per month they hold a dinner sharing their love of wine and food with their friends.  John wants to visit as many tasting rooms as possible during his trips to wine country and keeps detailed tasting notes.  He is a member of several wine clubs and receives member shipments from leading wineries in every region he visits.  He has several favorite destinations, which offer food pairing and are always a stop when planning a weekend tasting trip to entertain out of town guests.
 
 ## Lauren
 
