@@ -1,6 +1,7 @@
 ## Phase 2: Interaction Design
 
 Home
+
 Home view, you can click on the circle to go to that particular page.
 ![image](https://user-images.githubusercontent.com/54680219/115454792-0726f900-a1d6-11eb-9636-ffac083ce7ab.png)
 
