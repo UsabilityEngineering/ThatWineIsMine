@@ -1,9 +1,18 @@
 ## Phase 2: Interaction Design
 Home 
+
 This is where the program start, it will show the menu where you want to go.
 You can click on the circle you want to explore and it will take you to that page.
 
 ![image](https://user-images.githubusercontent.com/54680219/115495244-192b8a80-a21c-11eb-99f8-404b94aabd45.png?)
+
+Route List
+
+This will list all the routes for each Region.
+
+![image](https://user-images.githubusercontent.com/54680219/115495827-55abb600-a21d-11eb-95ed-61e3ecb6396d.png?)
+
+
 
 
 https://xd.adobe.com/view/f2375ea6-3ef8-4705-b033-fb5aea213862-a764/?fullscreen
