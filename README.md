@@ -40,6 +40,9 @@ Replace this text with a brief introduction to the problem space.
 
 * Using the information and research that we got in phase 1, we planned out an app with wireframes.
 * The wireframes were stiched together to develop an interactive prototype on AdobeXD
+* The overall design of our protoype/wireframes came from the personas and scenarios
+  * **New** and **Old** wine drinkers were thought of for all steps
+* **Simplicity** and **Comprehensability** were all thought of in the design
 
 [Full phase 2 report](phase2/)
 
