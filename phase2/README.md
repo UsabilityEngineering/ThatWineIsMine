@@ -131,3 +131,7 @@ User tasting note from user whoe had tasted the wine.
 [Wireframes](artboards)
 
 [Prototype Draft](https://xd.adobe.com/view/323067db-e312-4884-b085-24a4b22cab8a-6763/)
+
+## Settings
+
+![image](https://user-images.githubusercontent.com/54680219/115653681-725ef100-a2e4-11eb-93c4-c1a9ab55a4a1.png?)
