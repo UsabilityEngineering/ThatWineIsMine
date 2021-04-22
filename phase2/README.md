@@ -170,7 +170,7 @@ Search is accessible from the top navigation bar on screens where personas may d
 * When searching for a tour company Sally can search for 'Segway' when planning that special outing with friends to tour on scooters
 * Lauren can search tours by rating, by simply entering '*****' to find the best tours
 
-![image](artboards/searchExample1.png)
+![image](artboards/searchExample.png)
 
 # Supplementary Material
 
