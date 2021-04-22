@@ -123,7 +123,7 @@ This screen lists the wineries that the user has favorited.  We expect every per
 
 Description: 
 
-User tasting wine can efficeintly mark it as a favorite as they enter tasting notes by selecting the heart icon.  The heart icon is unfilled until the user selects it to mark the items as a favorite.  This is a common design which should help with learnabilty.
+User tasting wine can efficeintly mark it as a favorite as they enter tasting notes by selecting the heart icon.  The heart icon is unfilled until the user selects it to mark the items as a favorite.  This is a common design which should help with learnabilty.  This list helps the user keep track of wines they enjoy so they to use while shopping or planning their next trip.
 
 ![image](artboards/Favorite%20Wines.png)
 
