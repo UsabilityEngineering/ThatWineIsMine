@@ -12,7 +12,7 @@ Replace this text with a brief introduction to the problem space.
 
 * [Personas and Scenarios](personas-scenarios.md)
 * [Wireframes](#)
-* [Prototype](https://xd.adobe.com/view/154f997f-73e9-4175-9eb1-975f1e4e7efc-401c/?fullscreen)
+* [Prototype](https://xd.adobe.com/view/323067db-e312-4884-b085-24a4b22cab8a-6763/)
 
 # Phase 1: Requirements Gathering
 
