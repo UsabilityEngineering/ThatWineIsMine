@@ -79,4 +79,4 @@ Description:
 
 List of favorited tour routes; routes saved by user.
 
-![image](https://user-images.githubusercontent.com/54680219/115648352-227b2c80-a2da-11eb-938f-320d6de60881.png?)
+![image](https://user-images.githubusercontent.com/54680219/115648437-48a0cc80-a2da-11eb-92a6-5cf2da1fc960.png?)
