@@ -20,7 +20,7 @@
 
 Description: 
 
-Having an account to save all the users data, including favorite wines, wineries, and trips was considered important for efficiency, effectiveness, usefulness and user satisfaction. The login page will be used for users to authenticate their username and password and enable their information to be saved.  This is especially important for John who to store notes, but also beneficial to the other personas.  This feature provides fault tolerance as data is stored in cloud.
+Having an account to save all the users data, including favorite wines, wineries, and trips was considered important for efficiency, effectiveness, usefulness and user satisfaction. The login page will be used for users to authenticate their username and password and enable their information to be saved.  This is especially important for John who can store wine notes, but can also be beneficial to the other personas.  This feature provides fault tolerance as data is stored in cloud.
 
 ![image](artboards/Login.png)
 
