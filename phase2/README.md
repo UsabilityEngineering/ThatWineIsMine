@@ -1,7 +1,5 @@
-# Phase 2: Interaction Design
-# Wireframes 
-
-## Home
+## Phase 2: Interaction Design
+## Home 
 
 Description: 
 
@@ -107,13 +105,5 @@ Description:
 
 User tasting note from user whoe had tasted the wine.
 
-![image](https://user-images.githubusercontent.com/54680219/115652617-725df180-a2e2-11eb-8dfe-0d7ae652d120.png?)
-
-# Suppliementary Materials
-
-All Wireframes
-
-Prototype
-
-
+![image](https://user-images.githubusercontent.com/54680219/115652839-df718700-a2e2-11eb-8529-cfb6fa8d47ab.png?)
 
