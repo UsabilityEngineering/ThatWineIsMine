@@ -63,5 +63,5 @@ Description:
 
 Just a list in this version. Intend to add booking in future versions. Phone & URL links provided for contacting.
 
-![image](https://user-images.githubusercontent.com/54680219/115647298-5ce3ca00-a2d8-11eb-9306-ba0ee3ce37e2.png?)
+![image](https://user-images.githubusercontent.com/54680219/115647487-b815bc80-a2d8-11eb-9ed3-bb9d20708a3a.png?)
 
