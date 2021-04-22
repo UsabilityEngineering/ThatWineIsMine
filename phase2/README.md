@@ -40,5 +40,10 @@ Information of the wines that it has.
 
 ![image](https://user-images.githubusercontent.com/54680219/115644257-1fc90900-a2d3-11eb-9c15-64f4d93f3d53.png?)
 
+## Tasting Notes Detail
+
+Winery, wine awards, winemaker notes, price per bottle, price per case, % alcohol, community rating, notes entered by user.
+
+![image](https://user-images.githubusercontent.com/54680219/115645923-1ab98900-a2d6-11eb-9fbd-d8c8d4cd385c.png?)
 
 
