@@ -41,6 +41,16 @@ Information of the wines that it has.
 
 ![image](https://user-images.githubusercontent.com/54680219/115649110-8e11c980-a2db-11eb-82b2-22b0660566cc.png?)
 
+## Wine Detail Zoom
+
+Description: 
+
+Information of the wine, label, name, origins. 
+
+![image](https://user-images.githubusercontent.com/54680219/115652093-69b8eb80-a2e1-11eb-88e6-c6e4b621ac8d.png?)
+
+
+
 ## Tasting Notes Detail
 
 Description:
