@@ -2,13 +2,13 @@
 
 # Exectutive Summary
 
-* Using the information and research that we got in phase 1, we planned out an app with wireframes.
-* The wireframes were stiched together to develop an interactive prototype on AdobeXD
-  * We attempted to illustrate each interaction, but some interactions have limited implementation in the prototype; the heart icon for favorites can be interacted on the Winery Details screen
-* The overall design of our protoype/wireframe came from the personas and scenarios
-  * Lauren, Sally and John's needs were considered for all steps
-* Safety, efficeincy, effectiveness, memorability, usefulness, learnabilty, error tolerance, and satisfaction kept in mind in the design of these wire frames and the flow of the prototype
-* The search feature is an example of maximizing flexibility for the user where users can *search on keyword*
+* Using the information and research that we got in phase 1, we planned out an app with __wireframes__.
+* The wireframes were stiched together to develop an interactive prototype on __AdobeXD__
+  * We attempted to illustrate each interaction, but some interactions have limited implementation in the prototype; the *heart icon for favorites can be interacted on the Winery Details screen*
+* The overall design of our protoype/wireframe came from the *personas* and *scenarios*
+  * __Lauren__, __Sally__ and __John's__ needs were considered for all steps
+* __Safety__, __efficeincy__, __effectiveness__, __memorability__, __usefulness__, __learnabilty__, __error tolerance__, and __satisfaction__ kept in mind in the design of these wire frames and the flow of the prototype
+* The search feature is an example of maximizing flexibility for the user where users can *__search on keywords__*
 
 
 # Wireframe
