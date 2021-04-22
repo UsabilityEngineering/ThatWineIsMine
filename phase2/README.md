@@ -1,5 +1,7 @@
-## Phase 2: Interaction Design
-## Wireframes 
+### Phase 2: Interaction Design
+### Wireframes 
+
+## Home
 
 Description: 
 
