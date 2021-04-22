@@ -72,3 +72,11 @@ Description:
 List of tours made by user. Order by most popular or favorite by users.
 
 ![image](https://user-images.githubusercontent.com/54680219/115648185-e2b44500-a2d9-11eb-8f0c-9719a0899115.png?)
+
+## Favorite Tours
+
+Description: 
+
+List of favorited tour routes; routes saved by user.
+
+![image](https://user-images.githubusercontent.com/54680219/115648352-227b2c80-a2da-11eb-938f-320d6de60881.png?)
