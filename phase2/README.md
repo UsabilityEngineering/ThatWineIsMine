@@ -54,6 +54,15 @@ The wine club link will be helpful to John so he can later sign up for a wine cl
 
 ![image](artboards/Winery%20Details.png)
 
+### Winery Detail (*Deselecting Favorite*)
+
+Description: 
+
+The heart icon on the winery details page is functional in this prototype.  This transition page illustrates the behavior that can be expected everywhere this icon is selected and deselected.  An empty heart indicates the item has not been selected as a favorite.  A filled heart indicates the item has been selected as a favorite.
+
+![image](artboards/Winery%20Unfavorite.png)
+
+
 ## Wine Detail
 
 Description: 
@@ -109,14 +118,6 @@ Description:
 This screen lists the wineries that the user has favorited.  We expect every persona to find this feature useful.  Sally and Lauren may also find satisfaction in ther list of favorites as a collection of tasting destinations which they have visited.
 
 ![image](artboards/Favorite%20Wineries.png)
-
-### Winery Unfavorite
-
-Description: 
-
-The heart icon on the winery details page is functional in this prototype.  This transition page illustrates the behavior that can be expected everywhere this icon is selected and deselected.  An empty heart indicates the item has not been selected as a favorite.  A filled heart indicates the item has been selected as a favorite.
-
-![image](artboards/Winery%20Unfavorite.png)
 
 ## Favorite Wines
 
