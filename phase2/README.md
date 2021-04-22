@@ -14,7 +14,7 @@
 
 Description: 
 
-Having an account to save all the users trips and favorite wines and wineries. So A login page will be used for users to login with their username and password to get to their account where all their information is saved.
+Having an account to save all the users data, including favorite wines, wineries, and trips was considered important for efficiency, effectiveness, usefulness and user satisfaction. The login page will be used for users to authenticate their username and password and enable their information to be saved.  This is especially important for John who to store notes, but also beneficial to the other personas.
 
 ![image](artboards/Login.png)
 
@@ -22,7 +22,7 @@ Having an account to save all the users trips and favorite wines and wineries. S
 
 Description: 
 
-The Home page is a central location for accessing our main features of the app.  The design is supposed to be a simple grape vine for looks, but also a layout for buttons that access the rest of the app.  You can also access the settings from here in the top right corner hamburger bar.  The inspiration for this idea is to keep it simple for new users, but also show the options that older users might like.  Though the button ordering is scattered to also make all users at least scan the options and think about what they might want to do.
+The Home page is a central location for accessing our main features of the app.  The design represents a grape vine cluster on a vine, with buttons that access the rest of the app in place of, or on top of, berries.  You can access the settings from here in the top right corner hamburger bar.  The inspiration for this idea is to keep it simple for new users, but also show the options that older users might like.  Though the button ordering is scattered to also make all users at least scan the options and think about what they might want to do.
 
 ![image](artboards/Home.png)
 
@@ -30,7 +30,7 @@ The Home page is a central location for accessing our main features of the app. 
 
 Description: 
 
-A list of all the routes to each winery will be a great help. Sometimes you want to find the nearest winery to go to, so this will be a great help to determine which winery is closer to where you are at the moment.  We kept this simple for all users, but also added a sort option in the hamburger menu to allow some more specific results.  This option is made for all users as sometimes you want other options to broaden your winery search.
+A list of all the routes to each winery will provides a means to browse and search all registered wineries. Sometimes you want to find the nearest winery to go to, so this will be a great help to determine which winery is closer to where you are at the moment.  A sort option can be accessed in the hamburger menu for users to sort on rating.  Sally will benefit from teh efficiency of being able to search for a route with the plain text search.
 
 ![image](artboards/Route%20List.png)
 
@@ -39,7 +39,7 @@ A list of all the routes to each winery will be a great help. Sometimes you want
 
 Description: 
 
-John will benefit the most from the winery list, especially the ability to search for a winery using plain text.  Sally and Lauren might use the list to browse, but mostly to find a winery recommended by friends.
+John will benefit the most from the winery list, especially the ability to search for a winery using plain text.  The text search cababiltiy gives John an efficient way to lookup a winery.  Sally and Lauren might use the list to browse, but mostly to find a winery recommended by friends.  
 
 ![image](artboards/Winery%20List.png)
 
@@ -47,7 +47,7 @@ John will benefit the most from the winery list, especially the ability to searc
 
 Description: 
 
-The wine club link will be helpful to John so he can later sign up for a wine club after he gets back from a tasting trip.  The pricing information is updated dynamically from feeds received from the partner wineries.
+The wine club link will be helpful to John so he can later sign up for a wine club after he gets back from a tasting trip.  The pricing information is updated dynamically from feeds received from the partner wineries.  Sally and Lauren will enjoy the satisfaction of learning about different wineries.
 
 ![image](artboards/Winery%20Details.png)
 
