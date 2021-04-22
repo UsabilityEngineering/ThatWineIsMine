@@ -102,6 +102,15 @@ List of tours made by user. Order by most popular or favorite by users.
 
 ![image](https://user-images.githubusercontent.com/54680219/115649373-06788a80-a2dc-11eb-8011-ee412ac8ed6b.png?)
 
+## Favorite Wines
+
+Description: 
+
+Show a list of all the favorite Wines.
+
+![image](https://user-images.githubusercontent.com/54680219/115654153-69baea80-a2e5-11eb-8585-866beaf51bcf.png?)
+
+
 ## Favorite Tours
 
 Description: 
