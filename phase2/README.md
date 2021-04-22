@@ -16,7 +16,7 @@ Description:
 
 Login page
 
-![image](https://user-images.githubusercontent.com/54680219/115653040-4ee77680-a2e3-11eb-975f-6d9f8b652d42.png?)
+![image](artboards/Favorite Tours.png)
 
 ## Home 
 
