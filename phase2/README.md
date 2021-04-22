@@ -6,7 +6,7 @@ Description:
 This is where the program start, it will show the menu where you want to go.
 You can click on the circle you want to explore and it will take you to that page.
 
-![image](https://user-images.githubusercontent.com/54680219/115495244-192b8a80-a21c-11eb-99f8-404b94aabd45.png?)
+![image](https://user-images.githubusercontent.com/54680219/115648655-ac2afa00-a2da-11eb-8d00-8c3a5b520330.png?)
 
 ## Route List
 
@@ -14,7 +14,7 @@ Description:
 
 List of published tour routes. This list is driven by partnerships with regional marketing orgs.
 
-![image](https://user-images.githubusercontent.com/54680219/115646999-f8c10600-a2d7-11eb-819b-c32152ee969d.png?)
+![image](https://user-images.githubusercontent.com/54680219/115648676-b77e2580-a2da-11eb-865d-e8b66b7d22c4.png?)
 
 
 ## Winery List
