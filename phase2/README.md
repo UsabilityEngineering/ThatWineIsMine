@@ -47,7 +47,7 @@ Description:
 
 Information of the wine, label, name, origins. 
 
-![image](https://user-images.githubusercontent.com/54680219/115652093-69b8eb80-a2e1-11eb-88e6-c6e4b621ac8d.png?)
+![image](https://user-images.githubusercontent.com/54680219/115652307-e21fac80-a2e1-11eb-9371-5dd40a94625c.png?)
 
 
 
