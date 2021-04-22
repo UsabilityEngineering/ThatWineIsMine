@@ -12,7 +12,7 @@ Lauren has just moved to the Bay Area not long ago and is not familiar with the 
 
 ## Sally
 
-Sally is a Mom who lives in near Oakland and really enjoys going out to the country to taste wine and hang out with her friends.  She visits tasting rooms one or two times per year and brings her friends along on a tour.  She’s not the fanciest wine drinker, but knows a little about types and what a certain region might have to offer.  She’s a fan of knowing what flavors might be a part of a tour along with how well received they were from previous tasters.  Knowing how long the trip might be and far she has to go is quite important for her since she still has kids to get back to at home.  Preferably she would like to find a trip an hour or so away from home.
+Sally is a Mom who lives in near Oakland and really enjoys going out to the country to taste wine and hang out with her friends.  She visits tasting rooms one or two times per year and plans birthday parties with her friends in mind..  She’s not the fanciest wine drinker, but knows a little about types and what a certain region might have to offer.  She’s a fan of knowing what flavors might be a part of a tour along with how well received they were from previous tasters.  Knowing how long the trip might be and far she has to go is quite important for her since she still has kids to get back to at home.  Preferably she would like to find a trip an hour or so away from home.
 
 
 # Scenarios
