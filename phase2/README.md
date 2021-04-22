@@ -8,6 +8,8 @@
 * The overall design of our protoype/wireframe came from the personas and scenarios
   * Lauren, Sally and John's needs were considered for all steps
 * Safety, efficeincy, effectiveness, memorability, usefulness, learnabilty, error tolerance, and satisfaction kept in mind in the design of these wire frames and the flow of the prototype
+* The search feature is an example of maximizing flexibility for the user where users can *search on keyword*
+
 
 # Wireframe
 
@@ -155,6 +157,16 @@ Description:
 After a user is registered, the user can change their password, user name and email address on the settings screen, which is accessbile from the home screen. Users may also opt in to email from wineries about new wines, special events and promotions.  After opting in, a user may disable this option at any time to unsubscribe from all mailings from our partner wineries.  We strive to guard the safety and privacy of our users by managing these communcations on behalf of our partner wineries and never share user data.
 
 ![image](artboards/Settings.png)
+
+## Search
+
+Description:
+
+Search is accessible from the top navigation bar on screens where personas may desire to search or filter lists.
+* When searching for a tour company Sally can search for 'segway' when planning that special outing with friends to tour on scooters
+* Lauren can search tours by rating, by simply entering '*****' to find the best tours
+
+![image](artboards/searchExample1.png)
 
 # Supplementary Material
 
