@@ -3,7 +3,7 @@
 * Team: That Wine is Mine
 * Contributors: Carlson Smith, Nathan Tisdale, and Teng Xiong
 
-# Exectutive Summary
+# Executive Summary
 
 * Using the information and research that we got in phase 1, we planned out an app with __wireframes__.
 * The wireframes were stiched together to develop an interactive prototype on __AdobeXD__
