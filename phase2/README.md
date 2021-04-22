@@ -14,7 +14,7 @@ Description:
 
 List of published tour routes. This list is driven by partnerships with regional marketing orgs.
 
-![image](https://user-images.githubusercontent.com/54680219/115648676-b77e2580-a2da-11eb-865d-e8b66b7d22c4.png?)
+![image](https://user-images.githubusercontent.com/54680219/115648731-d086d680-a2da-11eb-88bc-5941de09fa71.png?)
 
 
 ## Winery List
