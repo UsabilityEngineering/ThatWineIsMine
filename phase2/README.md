@@ -4,9 +4,10 @@
 
 * Using the information and research that we got in phase 1, we planned out an app with wireframes.
 * The wireframes were stiched together to develop an interactive prototype on AdobeXD
+  * We attempted to illustrate each interaction, but some interactions have limited implementation in the prototype; the heart icon for favorites can be interacted on the Winery Details screen
 * The overall design of our protoype/wireframe came from the personas and scenarios
-  * **New** and **Old** wine drinkers were thought of for all steps
-* **Simplicity** and **Comprehensability** were all thought of in the design
+  * Lauren, Sally and John's needs were considered for all steps
+* Safety, efficeincy, effectiveness, memorability, usefulness, learnabilty, error tolerance, and satisfaction kept in mind in the design of these wire frames and the flow of the prototype
 
 # Wireframe
 
