@@ -2,6 +2,12 @@
 
 # Exectutive Summary
 
+* Using the information and research that we got in phase 1, we planned out an app with wireframes.
+* The wireframes were stiched together to develop an interactive prototype on AdobeXD
+* The overall design of our protoype/wireframe came from the personas and scenarios
+  * **New** and **Old** wine drinkers were thought of for all steps
+* **Simplicity** and **Comprehensability** were all thought of in the design
+
 # Wireframe
 
 ## Login
