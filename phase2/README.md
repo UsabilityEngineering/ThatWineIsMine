@@ -110,6 +110,14 @@ This screen lists the wineries that the user has favorited.  We expect every per
 
 ![image](artboards/Favorite%20Wineries.png)
 
+### Winery Unfavorite
+
+Description: 
+
+The heart icon on the winery details page is functional in this prototype.  This transition page illustrates the behavior that can be expected everywhere this icon is selected and deselected.  An empty heart indicates the item has not been selected as a favorite.  A filled heart indicates the item has been selected as a favorite.
+
+![image](artboards/Winery%20Unfavorite.png)
+
 ## Favorite Wines
 
 Description: 
@@ -117,14 +125,6 @@ Description:
 User tasting wine can efficeintly mark it as a favorite as they enter tasting notes by selecting the heart icon.  The heart icon is unfilled until the user selects it to mark the items as a favorite.  This is a common design which should help with learnabilty.
 
 ![image](artboards/Favorite%20Wines.png)
-
-## Winery Unfavorite
-
-Description: 
-
-The heart icon on the winery details page is functional in this prototype.  This transition page illustrates the behavior that can be expected everywhere this icon is selected and deselected.  An empty heart indicates the item has not been selected as a favorite.  A filled heart indicates the item has been selected as a favorite.
-
-![image](artboards/Winery%20Unfavorite.png)
 
 ## Note List
 
