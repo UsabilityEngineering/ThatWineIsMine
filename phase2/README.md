@@ -1,5 +1,5 @@
 ## Phase 2: Interaction Design
-Home 
+## Home 
 
 Description: 
 
