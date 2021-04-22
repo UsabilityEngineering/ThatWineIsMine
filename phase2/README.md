@@ -1,4 +1,6 @@
-## Phase 2: Interaction Design
+# Phase 2: Interaction Design
+# Wireframe
+
 ## Login
 
 Description: 
@@ -115,3 +117,7 @@ User tasting note from user whoe had tasted the wine.
 
 ![image](https://user-images.githubusercontent.com/54680219/115652839-df718700-a2e2-11eb-8529-cfb6fa8d47ab.png?)
 
+# Supplementary Material
+
+[Wireframes](phase2/artboards)
+[Prototype Draft](https://xd.adobe.com/view/323067db-e312-4884-b085-24a4b22cab8a-6763/)
