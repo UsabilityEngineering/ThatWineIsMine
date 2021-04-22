@@ -22,10 +22,9 @@ Having an account to save all the users trips and favorite wines and wineries. S
 
 Description: 
 
-This is where the program start, it will show the menu where you want to go.
-You can click on the circle you want to explore and it will take you to that page.
+The Home page is a central location for accessing our main features of the app.  The design is supposed to be a simple grape vine for looks, but also a layout for buttons that access the rest of the app.  You can also access the settings from here in the top right corner hamburger bar.  The inspiration for this idea is to keep it simple for new users, but also show the options that older users might like.  Though the button ordering is scattered to also make all users at least scan the options and think about what they might want to do.
 
-![image](https://user-images.githubusercontent.com/54680219/115648655-ac2afa00-a2da-11eb-8d00-8c3a5b520330.png?)
+![image](artboards/Home.png)
 
 ## Route List
 
