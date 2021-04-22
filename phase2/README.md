@@ -55,19 +55,17 @@ The wine club link will be helpful to John so he can later sign up for a wine cl
 
 Description: 
 
-Information of the wines that it has. 
+The wine detail provides a reference for all the personas to key information about the wine.  Clicking on the wine label thumbnail will zoom in on the label to help with recognition.  Label recognition will be especially helpful to Sally and Lauren as they try to find wines from their trip in their local markets.
 
-![image](https://user-images.githubusercontent.com/54680219/115649110-8e11c980-a2db-11eb-82b2-22b0660566cc.png?)
+![image](artboards/Wine%20Detail.png)
 
 ## Wine Detail Zoom
 
 Description: 
 
-The wine detail provides a reference for all the personas to key information about the wine.  Clicking on the wine label thumbnail will zoom in on the label to help with recognition.  Label recognition will be especially helpful to Sally and Lauren as they try to find wines from their trip in their local markets.
+This feature is for the John persona who really wants to see the details from the bottle of wine.  This isn't the most important feature, but can make the experience more friendly to the experienced wine drinkers.
 
 ![image](artboards/Wine%20Detail%20Zoom.png)
-
-
 
 ## Tasting Notes Detail
 
