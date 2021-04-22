@@ -16,7 +16,7 @@ Description:
 
 Login page
 
-![image](artboards/Login.png)
+![image](artboards/Favorite%20Tours.png)
 
 ## Home 
 
