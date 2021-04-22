@@ -32,6 +32,12 @@ Map image, favorite status, Name, address, hours, wine club link, community/pers
 
 ![image](https://user-images.githubusercontent.com/54680219/115641983-f6a67980-a2ce-11eb-94cf-c0d69fb7715e.png?)
 
+Wine Detail
 
-https://xd.adobe.com/view/f2375ea6-3ef8-4705-b033-fb5aea213862-a764/?fullscreen
+Description: 
+
+Information of the wines that it has. 
+
+![image](https://user-images.githubusercontent.com/54680219/115642405-c01d2e80-a2cf-11eb-89bd-c14f44b05788.png?)
+
 
