@@ -63,7 +63,7 @@ Description:
 
 Just a list in this version. Intend to add booking in future versions. Phone & URL links provided for contacting.
 
-![image](https://user-images.githubusercontent.com/54680219/115647487-b815bc80-a2d8-11eb-9ed3-bb9d20708a3a.png?)
+![image](https://user-images.githubusercontent.com/54680219/115648575-86055a00-a2da-11eb-9713-33f86e3cdb24.png?)
 
 ## Favorite Wineries
 
