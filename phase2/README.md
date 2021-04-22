@@ -44,6 +44,6 @@ Information of the wines that it has.
 
 Winery, wine awards, winemaker notes, price per bottle, price per case, % alcohol, community rating, notes entered by user.
 
-![image](https://user-images.githubusercontent.com/54680219/115646140-7a179900-a2d6-11eb-9c05-b5aa07f91802.png)
+![image](https://user-images.githubusercontent.com/54680219/115646242-aa5f3780-a2d6-11eb-8a68-5b99f7779d9b.png?)
 
 
