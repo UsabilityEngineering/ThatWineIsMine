@@ -44,7 +44,7 @@ Replace this text with a brief introduction to the problem space.
 * The overall design of our protoype/wireframe came from the personas and scenarios
   * Lauren, Sally and John's needs were considered for all steps
 * Safety, efficeincy, effectiveness, memorability, usefulness, learnabilty, error tolerance, and satisfaction kept in mind in the design of these wire frames and the flow of the prototype
-* The search feature is an example of maximizing flexibility for the user where users can *__search on keywords__*
+* The search feature is an example of maximizing flexibility for the users where they can *__search on keywords__*
 
 
 [Full phase 2 report](phase2/)
