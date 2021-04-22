@@ -50,5 +50,5 @@ Winery, wine awards, winemaker notes, price per bottle, price per case, % alcoho
 
 List of winery cards of wines in tour showing winery name, region, tasting fee, hours, community rating, favorite status, map image.
 
-![image](https://user-images.githubusercontent.com/54680219/115646624-61f44980-a2d7-11eb-97b5-9fbdb0aa5794.png?)
+![image](https://user-images.githubusercontent.com/54680219/115646675-7d5f5480-a2d7-11eb-9371-6d98fe455fba.png?)
 
