@@ -143,6 +143,14 @@ Map
 
 ![image](https://user-images.githubusercontent.com/54680219/115653871-d681b500-a2e4-11eb-8e72-2b084b048d0a.png?)
 
+## Most Popular Trips
+
+Description: 
+
+List of all the popular trips that recommend by tourist users. 
+
+![image](https://user-images.githubusercontent.com/54680219/115654322-ccac8180-a2e5-11eb-865b-43466a4cebaf.png?)
+
 
 ## Settings
 
