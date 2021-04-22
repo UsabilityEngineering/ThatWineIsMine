@@ -38,7 +38,8 @@ Replace this text with a brief introduction to the problem space.
 
 # Phase 2: Interaction Design
 
-https://xd.adobe.com/view/154f997f-73e9-4175-9eb1-975f1e4e7efc-401c/?fullscreen
+* Using the information and research that we got in phase 1, we planned out an app with wireframes.
+* The wireframes were stiched together to develop an interactive prototype on AdobeXD
 
 [Full phase 2 report](phase2/)
 
