@@ -11,7 +11,7 @@ Replace this text with a brief introduction to the problem space.
 # User-Centered Design Artifacts
 
 * [Personas and Scenarios](personas-scenarios.md)
-* [Wireframes](#)
+* [Wireframes](phase2/artboards)
 * [Prototype](https://xd.adobe.com/view/323067db-e312-4884-b085-24a4b22cab8a-6763/)
 
 # Phase 1: Requirements Gathering
