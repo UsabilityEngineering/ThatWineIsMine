@@ -41,7 +41,7 @@ Description:
 
 John will benefit the most from the winery list, especially the ability to search for a winery using plain text.  Sally and Lauren might use the list to browse, but mostly to find a winery recommended by friends.
 
-![image](artboards/Winery%20 List.png)
+![image](artboards/Winery%20List.png)
 
 ## Winery Detail
 
