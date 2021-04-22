@@ -30,26 +30,26 @@ The Home page is a central location for accessing our main features of the app. 
 
 Description: 
 
-List of published tour routes. This list is driven by partnerships with regional marketing orgs.
+A list of all the routes to each winery will be a great help. Sometimes you want to find the nearest winery to go to, so this will be a great help to determine which winery is closer to where you are at the moment.  We kept this simple for all users, but also added a sort option in the hamburger menu to allow some more specific results.  This option is made for all users as sometimes you want other options to broaden your winery search.
 
-![image](https://user-images.githubusercontent.com/54680219/115648731-d086d680-a2da-11eb-88bc-5941de09fa71.png?)
+![image](artboards/Route%20List.png)
 
 
 ## Winery List
 
 Description: 
 
-List of winery cards showing winery name, region, tasting fee, hours, community rating, favorite status, map image.
+John will benefit the most from the winery list, especially the ability to search for a winery using plain text.  Sally and Lauren might use the list to browse, but mostly to find a winery recommended by friends.
 
-![image](https://user-images.githubusercontent.com/54680219/115646922-db8c3780-a2d7-11eb-96de-125b287015db.png?)
+![image](artboards/Winery%20 List.png)
 
 ## Winery Detail
 
 Description: 
 
-Map image, favorite status, Name, address, hours, wine club link, community/personal rating, list of wines with bottle price.
+The wine club link will be helpful to John so he can later sign up for a wine club after he gets back from a tasting trip.  The pricing information is updated dynamically from feeds received from the partner wineries.
 
-![image](https://user-images.githubusercontent.com/54680219/115641983-f6a67980-a2ce-11eb-94cf-c0d69fb7715e.png?)
+![image](artboards/Winery%20Details.png)
 
 ## Wine Detail
 
@@ -63,9 +63,9 @@ Information of the wines that it has.
 
 Description: 
 
-Information of the wine, label, name, origins. 
+The wine detail provides a reference for all the personas to key information about the wine.  Clicking on the wine label thumbnail will zoom in on the label to help with recognition.  Label recognition will be especially helpful to Sally and Lauren as they try to find wines from their trip in their local markets.
 
-![image](https://user-images.githubusercontent.com/54680219/115652307-e21fac80-a2e1-11eb-9371-5dd40a94625c.png?)
+![image](artboards/Wine%20Detail%20Zoom.png)
 
 
 
@@ -73,87 +73,90 @@ Information of the wine, label, name, origins.
 
 Description:
 
-Winery, wine awards, winemaker notes, price per bottle, price per case, % alcohol, community rating, notes entered by user.
+The tasting notes feature is a must have for John who likes to keep detailed notes on all wines he tastes.
 
-![image](https://user-images.githubusercontent.com/54680219/115646242-aa5f3780-a2d6-11eb-8a68-5b99f7779d9b.png?)
+![image](artboards/Tasting%20Notes.png)
 
 ## Tour Details
 
 Description:
 
-List of winery cards of wines in tour showing winery name, region, tasting fee, hours, community rating, favorite status, map image.
+A list of each winery that is included in the tour set.  List of winery cards of wines in tour showing winery name, region, tasting fee, hours, community rating, favorite status, map image.
 
-![image](https://user-images.githubusercontent.com/54680219/115646829-b7c8f180-a2d7-11eb-9054-b4f5e3a2a3c0.png?)
+![image](artboards/Tour%20Details.png)
 
 ## Guide & Drivers
 
 Description:
 
-Just a list in this version. Intend to add booking in future versions. Phone & URL links provided for contacting.
+This page is meant for a user who doesn't have a designated driver for their tour.  The inspiration for this page is really just safety for all of our users, a reminder to not drink and drive.  It provides known tour vans or buses that can be hired out.
 
-![image](https://user-images.githubusercontent.com/54680219/115648575-86055a00-a2da-11eb-9713-33f86e3cdb24.png?)
+![image](artboards/Guides%20&%20Drivers.png)
 
 ## Favorite Wineries
 
 Description:
 
-List of tours made by user. Order by most popular or favorite by users.
+Another comprehensive list of the wineries that you can save for later.  Again, everyone can use these, but maybe this is for the more experienced wine drinkers who care about location. (The Sally persona)
 
-![image](https://user-images.githubusercontent.com/54680219/115649373-06788a80-a2dc-11eb-8011-ee412ac8ed6b.png?)
+![image](artboards/Favorite%20Wineries.png)
 
 ## Favorite Wines
 
 Description: 
 
-Show a list of all the favorite Wines.
+The Last comprehensive list that goes into the most detail allowing users to specifically select what wine they want.  This is meant for the more experienced users who want to save a certain wine for later. (The John persona)
 
-![image](https://user-images.githubusercontent.com/54680219/115654153-69baea80-a2e5-11eb-8585-866beaf51bcf.png?)
+![image](artboards/Favorite%Wines.png)
 
 
 ## Favorite Tours
 
 Description: 
 
-List of favorited tour routes; routes saved by user.
+A comprehensive list of the trips/tours someone might want to save for later.  This can be for the new wine drinkers or the old ones who found something that really fit what they wanted.
 
-![image](https://user-images.githubusercontent.com/54680219/115648437-48a0cc80-a2da-11eb-92a6-5cf2da1fc960.png?)
+![image](artboards/Favorite%20Tours.png)
 
 ## Winery Unfavorite
 
 Description: 
 
-List favorite winery
+The heart icon on the winery details page is functional in the prototype, illustrating the behavior that can be expected everywhere this icon is used.  An empty heart indicates the item has not been selected as a favorite.  A filled heart indicates the item has been selected as a favorite.
 
-![image](https://user-images.githubusercontent.com/54680219/115652407-0da29700-a2e2-11eb-9ffc-35055148074a.png?)
+![image](artboards/Winery%20Unvavorite.png)
 
 ## Note List
 
 Description: 
 
-User tasting note from user whoe had tasted the wine.
+The notes list feature will be used extensively by John who likes to keep detailed notes on all wines he tastes.  The ability to search the notes list will help him find wines he has tasted in the past.
 
-![image](https://user-images.githubusercontent.com/54680219/115652839-df718700-a2e2-11eb-8529-cfb6fa8d47ab.png?)
+![image](artboards/Notes%20List.png)
 
 ## Navigation
 
 Description: 
 
-Map
+A map where it shows you the route and gives you directions to the winery you want to go to. It's more like google map where you click on the address or provide an address then it will show you all the fastest route.
 
-![image](https://user-images.githubusercontent.com/54680219/115653871-d681b500-a2e4-11eb-8e72-2b084b048d0a.png?)
+![image](artboards/Navigation.png)
 
 ## Most Popular Trips
 
 Description: 
 
-List of all the popular trips that recommend by tourist users. 
+Lauren and Sally will both benefit from the list of most popular trips.  Lauren is unfamiliar with all of the options, so this will allow her to feel confident in selecting a highly rated trip.  Sally will save time in planning a trip with her friends by searching trips using the particular features she wants in the plain text search bar.
 
-![image](https://user-images.githubusercontent.com/54680219/115654322-ccac8180-a2e5-11eb-865b-43466a4cebaf.png?)
-
+![image](artboards/Most%20Popular%20Trips.png)
 
 ## Settings
 
-![image](https://user-images.githubusercontent.com/54680219/115653681-725ef100-a2e4-11eb-93c4-c1a9ab55a4a1.png?)
+Description: 
+
+After the account was created, you can change your password, name and email address under the settings option. You can have the wineries to email you when new wines or your favorite wine is available. Also you can have the app to notify you when news comes from your favorite Wineries.   
+
+![image](artboards/Settings.png)
 
 # Supplementary Material
 
