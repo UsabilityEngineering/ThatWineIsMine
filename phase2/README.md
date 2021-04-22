@@ -8,7 +8,7 @@ You can click on the circle you want to explore and it will take you to that pag
 
 Route List
 
-This will list all the routes for each Region.
+List of published tour routes. This list is driven by partnerships with regional marketing orgs.
 
 ![image](https://user-images.githubusercontent.com/54680219/115495827-55abb600-a21d-11eb-95ed-61e3ecb6396d.png?)
 
