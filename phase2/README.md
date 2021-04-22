@@ -8,7 +8,7 @@ You can click on the circle you want to explore and it will take you to that pag
 
 ![image](https://user-images.githubusercontent.com/54680219/115495244-192b8a80-a21c-11eb-99f8-404b94aabd45.png?)
 
-Route List
+## Route List
 
 Description: 
 
@@ -16,7 +16,7 @@ List of published tour routes. This list is driven by partnerships with regional
 
 ![image](https://user-images.githubusercontent.com/54680219/115495827-55abb600-a21d-11eb-95ed-61e3ecb6396d.png?)
 
-Winery List
+## Winery List
 
 Description: 
 
@@ -24,7 +24,7 @@ List of winery cards showing winery name, region, tasting fee, hours, community 
 
 ![image](https://user-images.githubusercontent.com/54680219/115641896-d676ba80-a2ce-11eb-811d-19aab56518eb.png?)
 
-Winery Detail
+## Winery Detail
 
 Description: 
 
@@ -32,7 +32,7 @@ Map image, favorite status, Name, address, hours, wine club link, community/pers
 
 ![image](https://user-images.githubusercontent.com/54680219/115641983-f6a67980-a2ce-11eb-94cf-c0d69fb7715e.png?)
 
-Wine Detail
+## Wine Detail
 
 Description: 
 
