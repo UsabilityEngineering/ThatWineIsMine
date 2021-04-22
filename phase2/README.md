@@ -90,3 +90,12 @@ Description:
 List of favorited tour routes; routes saved by user.
 
 ![image](https://user-images.githubusercontent.com/54680219/115648437-48a0cc80-a2da-11eb-92a6-5cf2da1fc960.png?)
+
+## Winery Unfavorite
+
+Description: 
+
+List favorite winery
+
+![image](https://user-images.githubusercontent.com/54680219/115652407-0da29700-a2e2-11eb-9ffc-35055148074a.png?)
+
