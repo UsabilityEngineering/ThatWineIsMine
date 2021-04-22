@@ -174,7 +174,11 @@ Search is accessible from the top navigation bar on screens where personas may d
 
 # Scenario Art Boards
 
+## An example of Sally using That Wine is Mine
+
 ![image](https://lucid.app/publicSegments/view/4f293557-688f-47e5-aba2-81008009e408/image.jpeg)
+
+## An example of Lauren using That Wine is Mine
 
 ![image](https://lucid.app/publicSegments/view/4d66a6bc-755e-422d-b17b-0bc980173c96/image.jpeg)
 
