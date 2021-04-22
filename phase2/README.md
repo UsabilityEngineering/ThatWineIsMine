@@ -86,7 +86,7 @@ Label recognition will be especially helpful to Sally and Lauren as they try to 
 
 Description:
 
-The tasting notes feature is a must have for John who likes to keep detailed notes on all wines he tastes.  Being able to quickly create/edit a note makes this feature learnable for Sally and Lauren as the learn more about wine and do more tastings.
+The tasting notes feature is a must have for John who likes to keep detailed notes on all wines he tastes.  Being able to quickly create/edit a note makes this feature learnable for Sally and Lauren as they learn more about wine and do more tastings.
 
 ![image](artboards/Tasting%20Notes.png)
 
@@ -102,7 +102,7 @@ The tour details is a list of each winery that is included in the tour set.  Lis
 
 Description:
 
-This page is meant for a user who doesn't have a designated driver for their tour.  The inspiration for this page is really just safety for all of our users, a reminder to not drink and drive.  It provides known tour vans or buses that can be hired out.
+This page is meant for users who dont have a designated driver for their tour.  The inspiration for this page is really just safety for all of our users, a reminder to not drink and drive.  It provides known tour vans or buses that can be hired out.
 
 ![image](artboards/Guides%20&%20Drivers.png)
 
@@ -126,7 +126,7 @@ This screen lists the wineries that the user has favorited.  We expect every per
 
 Description: 
 
-User tasting wine can efficiently mark it as a favorite as they enter tasting notes by selecting the heart icon.  The heart icon is unfilled until the user selects it to mark the items as a favorite.  This is a common design which should help with learnability.  This list helps the user keep track of wines they enjoy so they to use while shopping or planning their next trip.
+User tasting wine can efficiently mark it as a favorite as they enter tasting notes by selecting the heart icon.  The heart icon is unfilled until the user selects it to mark the items as a favorite.  This is a common design which should help with learnability.  This list helps the user keep track of wines they enjoy so they to use while shopping or planning their next trip.  This is most useful for the more experienced users like John, but Sally and Lauren will find it helpful as well.
 
 ![image](artboards/Favorite%20Wines.png)
 
@@ -167,7 +167,7 @@ After a user is registered, the user can change their password, user name and em
 Description:
 
 Search is accessible from the top navigation bar on screens where personas may desire to search or filter lists.
-* When searching for a tour company Sally can search for 'Segway' when planning that special outing with friends to tour on scooters
+* When searching for a tour company Sally can search for 'Segway' when planning that special outing with friends to tour on segways
 * Lauren can search tours by rating, by simply entering '*****' to find the best tours
 
 ![image](artboards/searchExample.png)
