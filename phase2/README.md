@@ -105,7 +105,7 @@ Description:
 
 The Last comprehensive list that goes into the most detail allowing users to specifically select what wine they want.  This is meant for the more experienced users who want to save a certain wine for later. (The John persona)
 
-![image](artboards/Favorite%Wines.png)
+![image](artboards/Favorite%20Wines.png)
 
 
 ## Favorite Tours
