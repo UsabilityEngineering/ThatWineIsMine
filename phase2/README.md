@@ -38,6 +38,7 @@ Description:
 
 Information of the wines that it has. 
 
-![image](https://user-images.githubusercontent.com/54680219/115642405-c01d2e80-a2cf-11eb-89bd-c14f44b05788.png?)
+![image](https://user-images.githubusercontent.com/54680219/115644257-1fc90900-a2d3-11eb-9c15-64f4d93f3d53.png?)
+
 
 
