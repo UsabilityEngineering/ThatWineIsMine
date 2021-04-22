@@ -14,7 +14,7 @@
 
 Description: 
 
-Having an account to save all the users data, including favorite wines, wineries, and trips was considered important for efficiency, effectiveness, usefulness and user satisfaction. The login page will be used for users to authenticate their username and password and enable their information to be saved.  This is especially important for John who to store notes, but also beneficial to the other personas.
+Having an account to save all the users data, including favorite wines, wineries, and trips was considered important for efficiency, effectiveness, usefulness and user satisfaction. The login page will be used for users to authenticate their username and password and enable their information to be saved.  This is especially important for John who to store notes, but also beneficial to the other personas.  This feature provides fault tolerance as data is stored in cloud.
 
 ![image](artboards/Login.png)
 
@@ -55,7 +55,7 @@ The wine club link will be helpful to John so he can later sign up for a wine cl
 
 Description: 
 
-The wine detail provides a reference for all the personas to key information about the wine.  Clicking on the wine label thumbnail will zoom in on the label to help with recognition.  Label recognition will be especially helpful to Sally and Lauren as they try to find wines from their trip in their local markets.
+The wine detail provides a reference for all the personas to key information about the wine.  Clicking on the wine label thumbnail will zoom in on the label to help with recognition.
 
 ![image](artboards/Wine%20Detail.png)
 
@@ -63,7 +63,7 @@ The wine detail provides a reference for all the personas to key information abo
 
 Description: 
 
-This feature is for the John persona who really wants to see the details from the bottle of wine.  This isn't the most important feature, but can make the experience more friendly to the experienced wine drinkers.
+Label recognition will be especially helpful to Sally and Lauren as they try to find wines from their trip in their local markets.  We hope for this to be a memorable feature that Lauren and Sally will find useful.
 
 ![image](artboards/Wine%20Detail%20Zoom.png)
 
@@ -71,7 +71,7 @@ This feature is for the John persona who really wants to see the details from th
 
 Description:
 
-The tasting notes feature is a must have for John who likes to keep detailed notes on all wines he tastes.
+The tasting notes feature is a must have for John who likes to keep detailed notes on all wines he tastes.  Being able to quickly create/edit a neote makes this feature learnable for Sally and Lauren as the learn more about wine and do more tastings.
 
 ![image](artboards/Tasting%20Notes.png)
 
