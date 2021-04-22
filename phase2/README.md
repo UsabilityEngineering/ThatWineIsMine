@@ -122,7 +122,7 @@ Description:
 
 The heart icon on the winery details page is functional in the prototype, illustrating the behavior that can be expected everywhere this icon is used.  An empty heart indicates the item has not been selected as a favorite.  A filled heart indicates the item has been selected as a favorite.
 
-![image](artboards/Winery%20Unvavorite.png)
+![image](artboards/Winery%20Unfavorite.png)
 
 ## Note List
 
