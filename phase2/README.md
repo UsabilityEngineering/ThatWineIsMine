@@ -91,6 +91,14 @@ This page is meant for a user who doesn't have a designated driver for their tou
 
 ![image](artboards/Guides%20&%20Drivers.png)
 
+## Favorite Tours
+
+Description: 
+
+A comprehensive list of the trips/tours someone might want to save for later.  This can be for the new wine drinkers or the old ones who found something that really fit what they wanted.
+
+![image](artboards/Favorite%20Tours.png)
+
 ## Favorite Wineries
 
 Description:
@@ -106,15 +114,6 @@ Description:
 The Last comprehensive list that goes into the most detail allowing users to specifically select what wine they want.  This is meant for the more experienced users who want to save a certain wine for later. (The John persona)
 
 ![image](artboards/Favorite%20Wines.png)
-
-
-## Favorite Tours
-
-Description: 
-
-A comprehensive list of the trips/tours someone might want to save for later.  This can be for the new wine drinkers or the old ones who found something that really fit what they wanted.
-
-![image](artboards/Favorite%20Tours.png)
 
 ## Winery Unfavorite
 
