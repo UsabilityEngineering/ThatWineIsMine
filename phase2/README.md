@@ -22,7 +22,7 @@ Description:
 
 List of winery cards showing winery name, region, tasting fee, hours, community rating, favorite status, map image.
 
-![image](https://user-images.githubusercontent.com/54680219/115641896-d676ba80-a2ce-11eb-811d-19aab56518eb.png?)
+![image](https://user-images.githubusercontent.com/54680219/115646922-db8c3780-a2d7-11eb-96de-125b287015db.png?)
 
 ## Winery Detail
 
