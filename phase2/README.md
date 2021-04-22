@@ -22,7 +22,7 @@ Having an account to save all the users data, including favorite wines, wineries
 
 Description: 
 
-The Home page is a central location for accessing our main features of the app.  The design represents a grape vine cluster on a vine, with buttons that access the rest of the app in place of, or on top of, berries.  You can access the settings from here in the top right corner hamburger bar.  The inspiration for this idea is to keep it simple for new users, but also show the options that older users might like.  Though the button ordering is scattered to also make all users at least scan the options and think about what they might want to do.
+The Home page is a central location for accessing our main features of the app.  The memorable design represents a grape vine cluster on a vine, with buttons that access the rest of the app in place of, or on top of, berries.  You can access the settings from here in the top right corner hamburger bar.  The inspiration for this idea is to keep it simple for new users, but also show the options that older users might like.  Though the button ordering is scattered to also make all users at least scan the options and think about what they might want to do.
 
 ![image](artboards/Home.png)
 
@@ -79,7 +79,7 @@ The tasting notes feature is a must have for John who likes to keep detailed not
 
 Description:
 
-A list of each winery that is included in the tour set.  List of winery cards of wines in tour showing winery name, region, tasting fee, hours, community rating, favorite status, map image.
+The tour details is a list of each winery that is included in the tour set.  List of winery cards of wines in tour showing winery name, region, tasting fee, hours, community rating, favorite status, map image.  We chose to provide a list of cards here, and in other screens, as this is a design used by many other apps and will help with learnability.
 
 ![image](artboards/Tour%20Details.png)
 
@@ -95,7 +95,7 @@ This page is meant for a user who doesn't have a designated driver for their tou
 
 Description: 
 
-A comprehensive list of the trips/tours someone might want to save for later.  This can be for the new wine drinkers or the old ones who found something that really fit what they wanted.
+A list of the trips/tours a user has saved for later reference.  This is an effective tool for Lauren and Sally to explore and pick a tour.
 
 ![image](artboards/Favorite%20Tours.png)
 
@@ -103,7 +103,7 @@ A comprehensive list of the trips/tours someone might want to save for later.  T
 
 Description:
 
-Another comprehensive list of the wineries that you can save for later.  Again, everyone can use these, but maybe this is for the more experienced wine drinkers who care about location. (The Sally persona)
+This screen lists the wineries that the user has favorited.  We expect every persona to find this feature useful.  Sally and Lauren may also find satisfaction in ther list of favorites as a collection of tasting destinations which they have visited.
 
 ![image](artboards/Favorite%20Wineries.png)
 
@@ -111,7 +111,7 @@ Another comprehensive list of the wineries that you can save for later.  Again, 
 
 Description: 
 
-The Last comprehensive list that goes into the most detail allowing users to specifically select what wine they want.  This is meant for the more experienced users who want to save a certain wine for later. (The John persona)
+User tasting wine can efficeintly mark it as a favorite as they enter tasting notes by selecting the heart icon.  The heart icon is unfilled until the user selects it to mark the items as a favorite.  This is a common design which should help with learnabilty.
 
 ![image](artboards/Favorite%20Wines.png)
 
@@ -119,7 +119,7 @@ The Last comprehensive list that goes into the most detail allowing users to spe
 
 Description: 
 
-The heart icon on the winery details page is functional in the prototype, illustrating the behavior that can be expected everywhere this icon is used.  An empty heart indicates the item has not been selected as a favorite.  A filled heart indicates the item has been selected as a favorite.
+The heart icon on the winery details page is functional in this prototype.  This transition page illustrates the behavior that can be expected everywhere this icon is selected and deselected.  An empty heart indicates the item has not been selected as a favorite.  A filled heart indicates the item has been selected as a favorite.
 
 ![image](artboards/Winery%20Unfavorite.png)
 
@@ -127,7 +127,7 @@ The heart icon on the winery details page is functional in the prototype, illust
 
 Description: 
 
-The notes list feature will be used extensively by John who likes to keep detailed notes on all wines he tastes.  The ability to search the notes list will help him find wines he has tasted in the past.
+The notes list feature will be most useful to John who likes to keep detailed notes on all wines he tastes.  The ability to search the notes list will help him efficently and effectively find wines he has tasted in the past.  The fault tolerance provided by our cloud storage provides John peace of mind in the event he loses his device.
 
 ![image](artboards/Notes%20List.png)
 
@@ -135,7 +135,7 @@ The notes list feature will be used extensively by John who likes to keep detail
 
 Description: 
 
-A map where it shows you the route and gives you directions to the winery you want to go to. It's more like google map where you click on the address or provide an address then it will show you all the fastest route.
+The navigation is used in guiding a user to a winery, or in the case of a route, a series of wineries.  Google Maps is embedded to provide the most up to date maps and a learnable GPS interface.  The continuous updates of maps by Google helps support the safetey of users in avoiding routes that are no longer valid.  The effectiveness of traffic information should also be a satisfying and useful feature.
 
 ![image](artboards/Navigation.png)
 
@@ -151,7 +151,7 @@ Lauren and Sally will both benefit from the list of most popular trips.  Lauren 
 
 Description: 
 
-After the account was created, you can change your password, name and email address under the settings option. You can have the wineries to email you when new wines or your favorite wine is available. Also you can have the app to notify you when news comes from your favorite Wineries.   
+After a user is registered, the user can change their password, user name and email address on the settings screen, which is accessbile from the home screen. Users may also opt in to email from wineries about new wines, special events and promotions.  After opting in, a user may disable this option at any time to unsubscribe from all mailings from our partner wineries.  We strive to guard the safety and privacy of our users by managing these communcations on behalf of our partner wineries and never share user data.
 
 ![image](artboards/Settings.png)
 
