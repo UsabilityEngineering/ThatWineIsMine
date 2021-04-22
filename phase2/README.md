@@ -1,5 +1,8 @@
 # Phase 2: Interaction Design
 
+* Team: That Wine is Mine
+* Contributors: Carlson Smith, Nathan Tisdale, and Teng Xiong
+
 # Exectutive Summary
 
 * Using the information and research that we got in phase 1, we planned out an app with __wireframes__.
