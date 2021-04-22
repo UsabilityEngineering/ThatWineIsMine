@@ -43,14 +43,25 @@ Information of the wines that it has.
 
 ## Tasting Notes Detail
 
+Description:
+
 Winery, wine awards, winemaker notes, price per bottle, price per case, % alcohol, community rating, notes entered by user.
 
 ![image](https://user-images.githubusercontent.com/54680219/115646242-aa5f3780-a2d6-11eb-8a68-5b99f7779d9b.png?)
 
 ## Tour Details
 
+Description:
+
 List of winery cards of wines in tour showing winery name, region, tasting fee, hours, community rating, favorite status, map image.
 
 ![image](https://user-images.githubusercontent.com/54680219/115646829-b7c8f180-a2d7-11eb-9054-b4f5e3a2a3c0.png?)
 
+## Guide & Drivers
+
+Description:
+
+Just a list in this version. Intend to add booking in future versions. Phone & URL links provided for contacting.
+
+![image](https://user-images.githubusercontent.com/54680219/115647298-5ce3ca00-a2d8-11eb-9306-ba0ee3ce37e2.png?)
 
