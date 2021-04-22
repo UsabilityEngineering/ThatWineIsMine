@@ -38,8 +38,6 @@ Replace this text with a brief introduction to the problem space.
 
 # Phase 2: Interaction Design
 
-*Coming Soon*
-
 [Full phase 2 report](phase2/)
 
 # Phase 3: Usability Evaluation
