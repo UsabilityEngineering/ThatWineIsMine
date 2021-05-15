@@ -53,8 +53,8 @@ The goal of the That Wine is Mine project, is to make a learnable and memorable 
 
 * Moving forward with our **revised prototype** we’ve planned a usability pilot test 
 * We first defined a few background items to start off each test.
-  * Winery Background
-  * Other app features
+  * Winery Visitation History
+  * Other app tools and priorities
   * Product Interest
 * **Task 1**: Identify pet-friendly winery
 * **Task 2**: Finding winery tour with Segways
