@@ -18,9 +18,9 @@ The goal is to determine if a user is able to find a winery that allows pets to 
 
 The ability to use search to identify a tour provider offering a specific service will be important in closing bookings.  It is important that a participant can successfully search on a keyword when looking for a tour provider.
 
-### Task 3: View wine label
+### Task 3: View tasting notes previously recorded
 
-Remembering what a wine label looks like can be helpful when hunting for a particular wine in the market.  We hope that a participant will be able to navigate to the wine details for a particular wine and intuit that tapping on the thumbnail will zoom in on the wine label.  This task may expose issues with navigation, or identify a need for an explicit visual queue for zooming in on a wine label.  
+One of the most important features for ongoing use of the app will be the ability to record tasting notes.  This task aims to test how easily a new user can navigate to an existing note to review details they may have recorded.  There are multiple possible paths and the choice of path may influence enhancements to how a user may access their notes.
 
 ### Task 4: Finding the label from a favorite wine
 
