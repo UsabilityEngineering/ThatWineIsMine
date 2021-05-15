@@ -6,9 +6,9 @@
 
 ## Protocol Explanation
 ### Background
-1. The first question confirms whether a participant had visited a winery, and gethers details about their decision process.  This information could help with identication of enhancments and validation of current features.
-2. Prioritis will help determine how urgently an issue or feature might be. If multiple participants mention tool as a high priority and a similar feature is not available, it would likely be given high priority by the product manager.
-3. The third background question is meant to provide a measure of how many participants might be expected to book a tour through the app.
+1. The first question confirms whether a participant had visited a winery, and gathers details about their decision process.  This information could help with identification of enhancments and validation of current features.
+2. Priorities will help determine how urgently an issue or feature might be. If multiple participants mention a tool as a high priority and a similar feature is not available, it would likely be given high priority by the product manager.
+3. The third background question is meant to provide a measure of how many participants might be expected to book a tour through the app and be interested in the product.
 
 ### Task 1: Identify winery that will friend to bring their miniature schnauzer
 
