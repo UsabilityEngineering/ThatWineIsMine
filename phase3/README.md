@@ -32,7 +32,8 @@ When thinking about a personality like Lauren who is new to wine and just wants 
 
 ## Overall Approach
 
-Think-aloud...
+Our approach is to observe the participants’ thought processes and interactions with the app to identify improvements or new features to be implemented in the design.  We are using a think-aloud approach to prioritize these types of insight, and will not be timing participant actions during this study.  Overall the approach is a more formative and thoughtful evaluation of our prototype as we don’t consider the design complete at this time.
+
 
 
 
