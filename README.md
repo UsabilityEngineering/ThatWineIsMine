@@ -1,6 +1,6 @@
 # That Wine is Mine
 
-The goal of the That Wine is Mine app, is to make an accessible and friendly app that facilitates users into finding the best wine tour to their liking.  Making sure the usability experience is the best that we can get it is very important in the school semester that we have.  The following Design Artifacts and Phases demonstrate our work so far...
+The goal of the That Wine is Mine project, is to make a learnable and memorable app that enables users to find the best wine, wineries, and wine tours in line with their preferences. Making sure the user experience is the best that we can work towards is very important in assuring usability.  The following Design Artifacts and Phases demonstrate our work so far in designing an application with consideration of the entire user experience.
 
 ## Team Members
 
