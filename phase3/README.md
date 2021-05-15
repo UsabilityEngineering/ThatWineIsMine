@@ -12,23 +12,23 @@
 
 ### Task 1: Identify winery that friend can go to and bring their miniature schnauzer
 
-The goal is to determine if a user is able to find a winery that allows pets to use the visual cue of the 'paw' icon on the Card for the winery in the wineries list.  This will determine if changes are needed to the icon to improve visibility or clarity.
+* The goal is to determine if a user is able to find a winery that allows pets to use the visual cue of the 'paw' icon on the Card for the winery in the wineries list.  This will determine if changes are needed to the icon to improve visibility or clarity.
 
 ### Task 2: Find a tour provider that offers a tour on Segways
 
-The ability to use search to identify a tour provider offering a specific service will be important in closing bookings.  It is important that a participant can successfully search on a keyword when looking for a tour provider.
+* The ability to use search to identify a tour provider offering a specific service will be important in closing bookings.  It is important that a participant can successfully search on a keyword when looking for a tour provider.
 
 ### Task 3: View tasting notes previously recorded
 
-One of the most important features for ongoing use of the app will be the ability to record tasting notes.  This task aims to test how easily a new user can navigate to an existing note to review details they may have recorded.  There are multiple possible paths and the choice of path may influence enhancements to how a user may access their notes.
+* One of the most important features for ongoing use of the app will be the ability to record tasting notes.  This task aims to test how easily a new user can navigate to an existing note to review details they may have recorded.  There are multiple possible paths and the choice of path may influence enhancements to how a user may access their notes.
 
 ### Task 4: Finding the label from a favorite wine
 
-Being able to use the app to find a wine you’ve tried in the past is a very important feature to encourage users to return to the app again and again.  If a participant is able to easily find a wine that they favorited then we can assume this feature isn’t too hidden to be something used commonly.  
+* Being able to use the app to find a wine you’ve tried in the past is a very important feature to encourage users to return to the app again and again.  If a participant is able to easily find a wine that they favorited then we can assume this feature isn’t too hidden to be something used commonly.  
 
 ### Task 5 Finding a popular tour according to other users
 
-When thinking about a personality like Lauren who is new to wine and just wants to try the best, we have to make sure she can access popular tours.  When testing our popular tours feature we just need to confirm that navigation to the popular tours list is not too hard to find.
+* When thinking about a personality like Lauren who is new to wine and just wants to try the best, we have to make sure she can access popular tours.  When testing our popular tours feature we just need to confirm that navigation to the popular tours list is not too hard to find.
 
 ## Overall Approach
 
