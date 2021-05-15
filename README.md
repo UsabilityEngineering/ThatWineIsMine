@@ -1,6 +1,6 @@
 # That Wine is Mine
 
-Replace this text with a brief introduction to the problem space.
+The goal of the That Wine is Mine app, is to make an accessible and friendly app that facilitates users into finding the best wine tour to their liking.  Making sure the usability experience is the best that we can get it is very important in the school semester that we have.
 
 ## Team Members
 
