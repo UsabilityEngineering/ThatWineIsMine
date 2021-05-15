@@ -51,6 +51,19 @@ The goal of the That Wine is Mine project, is to make a learnable and memorable 
 
 # Phase 3: Usability Evaluation
 
-*Coming Soon*
+* Moving forward with our revised prototype we’ve planned a usability test 
+* We first defined a few background items to start off each test.
+ * Winery Background
+ * Other app features
+ * Product Interest
+* Task 1: Identify pet-friendly winery
+* Task 2: Finding winery tour with Segways
+* Task 3: View wine tasting notes
+* Task 4: Find and view wine label
+* Task 5: Use the most popular tour function
+* Overall approach
+ * Formative
+ * Think-aloud
+
 
 [Full phase 3 report](phase3/)
