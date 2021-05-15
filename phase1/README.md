@@ -84,9 +84,6 @@ Sally wants to invite several friends to visit her favorite wineries and share a
 
 ## Supplementary Materials
 
-[See dedicated page for Personas and Scenarios created from Phase 1 findings](../personas-scenarios.md)
-
-
 * Google [Survey](https://forms.gle/pSwmTKsNu4PfYUTp6) and Websites to gather information.
 * Example Map: [Livermore Valley Wineries](https://forms.gle/pSwmTKsNu4PfYUTp6)
 * Example Regional visitation guide for [Sonoma County](https://forms.gle/pSwmTKsNu4PfYUTp6)
