@@ -4,7 +4,7 @@ The goal of the That Wine is Mine project, is to make a learnable and memorable 
 
 ## Team Members
 
-* **Carlson Smith** - Summary of contributions
+* **[Carlson Smith](https://usabilityengineering.github.io/ux-portfolio-N3mines/)** - Summary of contributions
 * **Nathan Tisdale** - Summary of contributions
 * **Teng Xiong** - Summary of contributions
 
