@@ -10,7 +10,7 @@
 2. Priorities will help determine how urgently an issue or feature might be. If multiple participants mention a tool as a high priority and a similar feature is not available, it would likely be given high priority by the product manager.
 3. The third background question is meant to provide a measure of how many participants might be expected to book a tour through the app and be interested in the product.
 
-### Task 1: Identify winery that will friend to bring their miniature schnauzer
+### Task 1: Identify winery that friend can go to and bring their miniature schnauzer
 
 The goal is to determine if user is able to find a winery that allows pets using the visual cue of the 'paw' icon on the Card for the winery in the wineries list.  This will determine if changes are need to the icon to improve visiblity or clarity.
 
