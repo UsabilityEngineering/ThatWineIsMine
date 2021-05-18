@@ -12,6 +12,7 @@ The goal of the That Wine is Mine project, is to make a learnable and memorable 
 
 * [Personas and Scenarios](personas-scenarios.md)
 * [Wireframes](phase2/artboards)
+* [Mock-up](phase3/assets/artboards.pdf)
 * [Prototype](https://xd.adobe.com/view/4f3767a8-1a39-4d30-8b8f-bbb8c757abb1-1a64/ "Adobe XD Prototype")
 
 # Phase 1: Requirements Gathering
