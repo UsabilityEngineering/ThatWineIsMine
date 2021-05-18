@@ -6,7 +6,7 @@ The goal of the That Wine is Mine project, is to make a learnable and memorable 
 
 * **[Carlson Smith](https://usabilityengineering.github.io/ux-portfolio-N3mines/)** - Survey Design,  Persona, Helped with Wireframe, Prototype, Interviewer, GitHub Pages
 * **[Nathan Tisdale](https://usabilityengineering.github.io/ux-portfolio-natisdale/)** - Survey Design,  Persona, Most of Wireframe, Prototype, Color Palette, Notetaker, Github Pages
-* **[Teng Xiong](https://usabilityengineering.github.io/ux-portfolio-txiong11/)** - Survey Design,  Persona, Helped with Wireframe, Notetaker, GitHub Pages
+* **[Teng Xiong](https://usabilityengineering.github.io/ux-portfolio-txiong11/)** - Survey Design,  Persona, Helped with Wireframe, Some of Prototype,Notetaker, GitHub Pages
 
 # User-Centered Design Artifacts
 
